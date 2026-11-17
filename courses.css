@@ -1,0 +1,98 @@
+/* nav {
+    background-color:rgb(7, 7, 61);
+    text-align: center;
+    margin-top: -10px;
+    
+} */
+/* header{
+    background-color: rgb(0, 0, 88);
+} */
+ header{
+    background-color: rgb(77, 6, 77);
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -8px;
+}
+span{
+    color: rgb(198, 78, 198);
+    font-size: 30px;
+}
+.nav{
+    text-align: end;
+    margin-top: -80px;
+    font-size: 20px;
+    color: aliceblue;
+
+}
+.logo{
+    margin-left: -500px;
+}
+
+
+body {
+    background-color:plum;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+.main-title {
+    font-size: 32px;
+    color:black;
+    margin-bottom: 5px;
+}
+
+.sub-title {
+    font-size: 16px;
+    color:rgb(5, 5, 78);
+    margin-bottom: 40px; /
+}
+
+.container {
+    display: flex;
+    justify-content: center; 
+    gap: 20px;               
+    /* flex-wrap: wrap; */
+}
+
+
+.card {
+    background-color: white;
+    border: 1px solid beige;
+    border-radius: 8px;
+    width: 250px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.card-box {
+    height: 100px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;     
+    justify-content: center;  
+    margin-bottom: 15px;
+}
+
+.card h3 {
+    font-size: 18px;
+    /* margin-bottom: 10px; */
+}
+
+.card p {
+    font-size: 14px;
+    /* color: #555; */
+    /* line-height: 1.4; */
+    margin-bottom: 20px;
+}
+
+.card a {
+    color:darkblue;
+    text-decoration: none; 
+    font-weight: bold;
+    font-size: 14px;
+}
+.card a:hover {
+    text-decoration: underline;
+}

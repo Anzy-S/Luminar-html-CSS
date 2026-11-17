@@ -1,0 +1,7 @@
+header {
+            background-color:rgb(175, 47, 175);
+            color: rgba(255, 255, 255, 0.74);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
