@@ -96,3 +96,7 @@ body {
 .card a:hover {
     text-decoration: underline;
 }
+.card:hover{
+    background-color: rgb(239, 196, 239);
+    transform:scaley(1.1);
+}

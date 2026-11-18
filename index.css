@@ -111,3 +111,7 @@ h2 {
     margin-left: 10px;
     color: rgb(83, 76, 76)
 }
+.box:hover{
+    transform: scaley(1.1);
+    
+}
